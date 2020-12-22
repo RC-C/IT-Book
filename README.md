@@ -21,6 +21,12 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
 
 ## 算法与数据结构相关书籍
 ## 数据库相关书籍
+
+ - 高性能mysql第三版  [百度网盘链接](https://pan.baidu.com/s/1dtIjHrZnOWq5AkvoTgGUnQ) 提取码：i71m 
+ - MySQL技术内幕  InnoDB存储引擎  第2版 [百度网盘链接](https://pan.baidu.com/s/1iSwpEWGlyP735_du0umMew)  提取码：z2ly 
+ - MySQL必知必会（高清版） [百度网盘链接](https://pan.baidu.com/s/1zXML_up9ei_Ke0DZoDI_xA)  提取码：tek1
+
+
 ## Git相关书籍
 ## 设计模式相关书籍
 
