@@ -13,6 +13,7 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
  - java核心技术 [百度网盘链接](https://pan.baidu.com/s/1A1nY7U9S4g1vA8Q7djvFMA)  提取码：sbl7 
  - Java 并发编程实战 [百度网盘链接](https://pan.baidu.com/s/1T3b9u7I4qXL13ScmzThA-Q) 提取码：utdx 
  - Java加密与解密的艺术  第2版 [百度网盘链接](https://pan.baidu.com/s/1D3316Ui85Vwlgg7m9EggXg)  提取码：lyaw 
+ - JAVA网络编程 第4版 [百度网盘链接](https://pan.baidu.com/s/1_XD-nz0EmjpDHQBtuBNCpw) 提取码：nwuo
 
 ## Python相关书籍 
 ## Android相关书籍
@@ -20,6 +21,13 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
  - 第一行代码第二版(附源码)  [百度网盘链接](https://pan.baidu.com/s/1ElkhNIvrVJLm3A52b5kUtg)  提取码：eybs 
 
 ## 算法与数据结构相关书籍
+
+ - 大话数据结构  [百度网盘链接](https://pan.baidu.com/s/1txP1WMkbhLfAGqC1stooAw)  提取码：gozl
+
+## Linux相关书籍
+
+ - 《鸟哥的Linux私房菜-基础篇》第四版 [百度网盘链接](https://pan.baidu.com/s/16VCL7NwOu9QDy06bmafZVw)  提取码：s2fv
+
 ## 数据库相关书籍
 
  - 高性能mysql第三版  [百度网盘链接](https://pan.baidu.com/s/1dtIjHrZnOWq5AkvoTgGUnQ) 提取码：i71m 
@@ -28,6 +36,9 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
 
 
 ## Git相关书籍
+
+ - Git权威指南-目录完美-完整版 [百度网盘链接](https://pan.baidu.com/s/1Xks7iN6swt-ykLiT00xXJQ)  提取码：oqem
+
 ## 设计模式相关书籍
 
  - Head First 设计模式(中文版)    [百度网盘链接](https://pan.baidu.com/s/1po6RelMoSGDLYn2w3MP-Nw)  提取码：4p0i
