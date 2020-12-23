@@ -3,8 +3,7 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
 
 > **重要说明：如果目录无法跳转的话，直接拉下去就可以了，这些书籍都是在同一个页面的。后续不定时更新，敬请期待。**
 
-
-目前收集整理的书籍还不是很多，后续会不断更新，希望对大家有所帮助。
+目前收集整理的书籍还不是很多，后续会不断更新，希望对大家有所帮助。 
 ## Java相关书籍
 
  - 嵩山版 Java 开发手册 [百度网盘链接](https://pan.baidu.com/s/1nsBLVWjOuK9J9rsOuoAGng)  提取码：t2xp
@@ -15,7 +14,19 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
  - Java加密与解密的艺术  第2版 [百度网盘链接](https://pan.baidu.com/s/1D3316Ui85Vwlgg7m9EggXg)  提取码：lyaw 
  - JAVA网络编程 第4版 [百度网盘链接](https://pan.baidu.com/s/1_XD-nz0EmjpDHQBtuBNCpw) 提取码：nwuo
 
-## Python相关书籍 
+## 大数据相关书籍 
+
+ - Python+Spark 2.0+Hadoop机器学习与大数据实战_林大贵(著)  清华大学出版社(完整高清 带书签)   [百度网盘链接](https://pan.baidu.com/s/1gsTm6zefThMiwmKsZr52CA) 提取码：3di4
+ - 图解Spark  核心技术与案例实战手册   [百度网盘链接](https://pan.baidu.com/s/1fRSCC19sfOO7ztvRN0CLmQ) 提取码：krvp
+ - Spark快速大数据分析 [百度网盘链接](https://pan.baidu.com/s/1eGJuqf7DCSI_WYmQzCcD4A)  提取码：1ytz
+ - Spark高级数据分析  [百度网盘链接](https://pan.baidu.com/s/1s3j4dPJPZ-FJaUYGDBIdXA)  提取码：b7ul
+ - Kafka权威指南 [百度网盘链接](https://pan.baidu.com/s/1dsPQqgpcMkEUyBY1DhmHYw)  提取码：u6uo
+ - 企业大数据处理：Spark、Druid、Flume与Kafka应用实践 [百度网盘链接](https://pan.baidu.com/s/1YPVqx349hhQ0Y9ctaVB91A)  提取码：nbnv
+ - 数据算法++Hadoop+Spark大数据处理技巧 [百度网盘链接](https://pan.baidu.com/s/1aPaW6LJN42rlgbjQjS0scw)  提取码：x3lm
+ - 企业级大数据平台构建：架构与实现_朱凯(著)  机械工业出版社  [百度网盘链接](https://pan.baidu.com/s/1a1qEbyib1azi-zXYf0g_2Q)  提取码：c0ml
+ - Spark大数据分析实战 ,高彦杰，倪亚宇著 ,P214  [百度网盘链接](https://pan.baidu.com/s/19lgr_4RDvbPh66k7Bh35GQ)  提取码：w05d
+ - 深入理解Spark+核心思想与源码分析 耿嘉安著 [百度网盘链接](https://pan.baidu.com/s/1BzyC5g_ORxOM1G4Tgn7m8g)  提取码：3fjw
+
 ## Android相关书籍
 
  - 第一行代码第二版(附源码)  [百度网盘链接](https://pan.baidu.com/s/1ElkhNIvrVJLm3A52b5kUtg)  提取码：eybs 
