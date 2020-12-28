@@ -3,6 +3,7 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
 
 > **重要说明：如果目录无法跳转的话，直接拉下去就可以了，这些书籍都是在同一个页面的。后续不定时更新，敬请期待。**
 
+
 目前收集整理的书籍还不是很多，后续会不断更新，希望对大家有所帮助。 
 ## Java相关书籍
 
@@ -13,6 +14,8 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
  - Java 并发编程实战 [百度网盘链接](https://pan.baidu.com/s/1T3b9u7I4qXL13ScmzThA-Q) 提取码：utdx 
  - Java加密与解密的艺术  第2版 [百度网盘链接](https://pan.baidu.com/s/1D3316Ui85Vwlgg7m9EggXg)  提取码：lyaw 
  - JAVA网络编程 第4版 [百度网盘链接](https://pan.baidu.com/s/1_XD-nz0EmjpDHQBtuBNCpw) 提取码：nwuo
+ - Java并发编程之美  [百度网盘链接](https://pan.baidu.com/s/1TZrZLG0km6ZKCptzfMU2iw) 提取码：qjce
+ - MyBatis从入门到精通   刘增辉   [百度网盘链接](https://pan.baidu.com/s/1MX4mWoRnxhjlzGcvHWGG9A)  提取码：vghl
 
 ## 大数据相关书籍 
 
@@ -34,6 +37,7 @@ IT类书籍那么贵，作为一名程序员，天天买纸质书是不可能的
 ## 算法与数据结构相关书籍
 
  - 大话数据结构  [百度网盘链接](https://pan.baidu.com/s/1txP1WMkbhLfAGqC1stooAw)  提取码：gozl
+ - 算法 第四版  [百度网盘链接](https://pan.baidu.com/s/1LoQrTVzxcOSi_yN32MJT8Q) 提取码：7vyq
 
 ## Linux相关书籍
 
